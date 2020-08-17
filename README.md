@@ -6,7 +6,7 @@ https://www.cse.wustl.edu/~cdgill/courses/cse532/lab1/
 https://www.cse.wustl.edu/~cdgill/courses/cse532/lab2/
 https://www.cse.wustl.edu/~cdgill/courses/cse532/lab3/
 
----------- Part 1 -----------
+---------- Part 1 -----------   
 Overview:
 1. Play class: Quite same as Lab2,
 Things we have changed:
