@@ -1,0 +1,4 @@
+Guildenstern Guildenstern_hamlet_ii_2a.txt
+King King_hamlet_ii_2a.txt
+Queen Queen_hamlet_ii_2a.txt
+Rosencrantz Rosencrantz_hamlet_ii_2a.txt

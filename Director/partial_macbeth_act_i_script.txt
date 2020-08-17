@@ -1,0 +1,5 @@
+[scene] Macbeth ACT I SCENE I An open Place Thunder and Lightning by William Shakespeare
+macbeth_i_1_config.txt
+[scene] Macbeth ACT I SCENE II A Camp near Forres by William Shakespeare
+macbeth_i_2a_config.txt
+macbeth_i_2b_config.txt

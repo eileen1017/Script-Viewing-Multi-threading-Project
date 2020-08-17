@@ -1,0 +1,4 @@
+MALCOLM MALCOLM_macbeth_i_2b.txt
+LENNOX LENNOX_macbeth_i_2b.txt
+ROSS ROSS_macbeth_i_2b.txt
+DUNCAN DUNCAN_macbeth_i_2b.txt

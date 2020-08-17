@@ -1,0 +1,3 @@
+DUNCAN DUNCAN_macbeth_i_2a.txt
+MALCOLM MALCOLM_macbeth_i_2a.txt
+SOLDIER SOLDIER_macbeth_i_2a.txt
