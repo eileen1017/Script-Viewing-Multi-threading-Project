@@ -1,10 +1,10 @@
 # Script-Viewing-Multi-threading-Project
 
-Assignment Instruction：
-https://www.cse.wustl.edu/~cdgill/courses/cse532/lab1/
-https://www.cse.wustl.edu/~cdgill/courses/cse532/lab1/
-https://www.cse.wustl.edu/~cdgill/courses/cse532/lab2/
-https://www.cse.wustl.edu/~cdgill/courses/cse532/lab3/
+Assignment Instruction：    
+https://www.cse.wustl.edu/~cdgill/courses/cse532/lab1/   
+https://www.cse.wustl.edu/~cdgill/courses/cse532/lab1/   
+https://www.cse.wustl.edu/~cdgill/courses/cse532/lab2/   
+https://www.cse.wustl.edu/~cdgill/courses/cse532/lab3/   
 
 ---------- Part 1 -----------   
 Overview:   
